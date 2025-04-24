@@ -1,0 +1,14 @@
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\bin\Debug\net8.0\PROG_3A_ICE_App.exe
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\bin\Debug\net8.0\PROG_3A_ICE_App.deps.json
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\bin\Debug\net8.0\PROG_3A_ICE_App.runtimeconfig.json
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\bin\Debug\net8.0\PROG_3A_ICE_App.dll
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\bin\Debug\net8.0\PROG_3A_ICE_App.pdb
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\obj\Debug\net8.0\PROG_3A_ICE_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\obj\Debug\net8.0\PROG_3A_ICE_App.AssemblyInfoInputs.cache
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\obj\Debug\net8.0\PROG_3A_ICE_App.AssemblyInfo.cs
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\obj\Debug\net8.0\PROG_3A_ICE_App.csproj.CoreCompileInputs.cache
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\obj\Debug\net8.0\PROG_3A_ICE_App.dll
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\obj\Debug\net8.0\refint\PROG_3A_ICE_App.dll
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\obj\Debug\net8.0\PROG_3A_ICE_App.pdb
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\obj\Debug\net8.0\PROG_3A_ICE_App.genruntimeconfig.cache
+C:\Users\kreas\source\repos\PROG_3A_ICE_App\PROG_3A_ICE_App\obj\Debug\net8.0\ref\PROG_3A_ICE_App.dll
